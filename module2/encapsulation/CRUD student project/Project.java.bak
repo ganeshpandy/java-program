@@ -1,0 +1,8 @@
+class Project{
+	private int projectId;
+	private	String projectName;
+	Project(){
+		
+	}
+
+}

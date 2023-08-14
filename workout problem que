@@ -1,0 +1,40 @@
+1)write a java program to display the numbers from 1 to 10 by using for loop,while loop and do while loop separately.
+2)write a java program to display the numbers from 10 to 1 by using for loop,while loop and do while loop separately.
+3)write a java program to display the Alphabets from A to Z by using for loop,while loop and do while loop separately.
+4)write a java program to display the Alphabets from Z to A by using for loop,while loop and do while loop separately.
+5)write a java program to display the Alphabets from a to z by using for loop,while loop and do while loop separately.
+6)write a java program to display the Alphabets from z to a by using for loop,while loop and do while loop separately.
+7)write a java program to display the Vowels in forward direction by using for loop,while loop and do while loop separately.
+8)write a java program to display the Vowels in backward direction by using for loop,while loop and do while loop separately.
+9)write a java program to display the consonants in forward direction by using for loop,while loop and do while loop separately.
+10)write a java program to display the consonants in backward direction by using for loop,while loop and do while loop separately.
+11)write a java program to design a method to check wheather the numbers is even only.
+12)write a java program to design a method to check wheather the numbers is odd only.
+13)write a java program to design a method to check wheather the numbers is positive only.
+14)write a java program to design a method to check wheather the numbers is negative only.
+15)write a java program to design a method to check wheather the numbers is even and positive only and if the condition satisfied then display the multiplication table of the number in the ascending order.
+16)write a java program to design a method to check wheather the numbers is odd and positive only and if the condition satisfied then display the multiplication table of the number in the descending order.
+17)write a java program to design a method to check wheather the numbers is even and Negative only and if the condition satisfied then display the multiplication table of the number in the ascending order.
+18)write a java program to design a method to check wheather the numbers is odd and negative only and if the condition satisfied then display the multiplication table of the number in the descending order.
+19)write a java program to design the basic calculator and perform the basic arithmetic opeartion based operation upon the user choice.
+20)write a java program to reverse a number.
+21)write a java program to display the sum of the digits of the number.
+22)write a java program to display the alphabets present at the even ASCII code.
+23)write a java program to display the alphabets present at the odd ASCII code.
+24)write a java program to display the number from 1 to 10 by using one dimensional primitive array.
+25)write a java program to display the number from 10 to 1 by using one dimensional primitive array.
+26)write a java program to display the number from A to Z by using one dimensional primitive array.
+27)write a java program to display the number from Z to A by using one dimensional primitive array.
+28)write a java program to display the number from a to z by using one dimensional primitive array.
+29)write a java program to display the number from z to a by using one dimensional primitive array.
+30)write a java program to display the display the days of the week by using one dimensional non primitive arrays
+31)write a java program to display the display the months of the year by using one dimensional non primitive arrays
+32)write a java program to display the display the vowels from A to Z by using one dimensional primitive arrays.
+33)write a java program to display the display the vowels from Z to A by using one dimensional primitive arrays.
+34)write a java program to display the display the consonants from A to Z by using one dimensional primitive arrays.
+35)write a java program to display the display the consonants from Z to A by using one dimensional primitive arrays.
+22/02/23
+36)write a java program to display the display the sum of the elements present in the one dimensional primitive arrays.
+37)write a java program to display the display the sum of the even elements present in the one dimensional primitive arrays.
+38)write a java program to display the display the sum of the odd elements present in the one dimensional primitive arrays.
+23/02/23

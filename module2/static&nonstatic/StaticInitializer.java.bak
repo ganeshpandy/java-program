@@ -1,0 +1,8 @@
+class StaticInitializer
+{
+	static int i;
+	public static void demo(){
+		System.out.println("static demo()");
+		}
+		static
+}

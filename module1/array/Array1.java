@@ -1,0 +1,25 @@
+import java.util.Scanner;
+class Array1 
+{
+	public static void main(String[] args) 
+	{
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the number");
+		int size=sc.nextInt();
+		int []a=new int[size];
+		for(int i=0;i<a.length;i++)
+		{
+		System.out.println("Enter the elements of the arrays at the "+i+"index");
+		a[i]=sc.nextInt();
+			}
+			System.out.println("even elements of the arrays are");
+			for (int i=0;i<a.length;i++)
+			{
+				if(a[i]%2==0)
+				{
+					System.out.println(a[i]+" ");
+				}
+			}
+		
+	}
+}

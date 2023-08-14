@@ -1,0 +1,69 @@
+class Student{
+	private int studentId;
+	private String StudentName;
+	Student(){
+		
+	}
+	Student(int studentId,String studentName){
+		this.StudentId=studentId;
+		this.StudentName=studentName;
+	}
+	public int getStudentId(){
+		return studentId;
+	}
+	public void setStudentId(int studentId){
+		this.studentId=studentId;
+	}
+	public String getStudentName(){
+		return studentName;
+	}
+	public void setStudentName(String studentName){
+		this.studentName=studentName;
+	}
+	private Project project;
+	public Project getProject(){
+		return project;
+	}
+	public void setProject(Project project){
+		this.project=project;
+	}
+	//create project
+	public void createTheProject(Project project){
+		if(project.getProjectId()!=0&&project.getProjectName()!=null){
+			this.project=project;
+			System.out.println("project create operation performed successfully");
+		}
+		else{
+			System.out.println("project already exist");
+		}
+	}
+	//read the project
+	public void readTheProject(){
+		if(project.getProjectId()!=0&&project.getProjectName()!=null){
+			System.out.println("Project Details");
+			System.out.println("-----------------");
+			System.out.println("project Id:"+project.getProjectId());
+			System.out.println("project name:"+project.getProjectName());
+			System.out.println("project read operation performed successfully");
+		}
+		else{
+			System.out.println("project doesn't exist");
+		}
+		//update the project
+		public void updateTheProject(int projectId,String projectName){
+		if(project.getProjectId()!=0&&project.getProjectName()!=null){
+			project.setProjecttId(projectId);
+			project.setProjectName(projectName);
+			System.out.println("project doesn't exist!");
+		}
+	}
+	//delete the project
+	public void deleteTheProject(int projectId){
+		if(project.getProjectId()==projectId){
+			this.project=null;
+			System.out.println("project deleted successfully");
+		}
+System.out.println("project doesn't exist");
+	}
+	}
+	}
